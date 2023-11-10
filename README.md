@@ -1,4 +1,4 @@
-# Placement-of-Tunnel-Segment (PTS)
+# Placement of Tunnel Segment (PTS)
 I created **Placement of Tunnel Segment Program** to work as automation for shop drawing work. To reduce mistake by human and time.
 The program compute coordinate of tunnel segment corner from coordinate of center, azimuth, chainage, elevation of center, zenith angle and tunnel daimeter.
 To plot Tunnel Segment Plan and Longitudinal Section to AutoCAD.
