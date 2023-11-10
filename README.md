@@ -5,7 +5,7 @@ To plot Tunnel Segment Plan and Longitudinal Section to AutoCAD.
 
 **PTS by Insert Attribute Block**
 
-_Creat the Attribute Block in AutoCAD_
+_Create the Attribute Block in AutoCAD_
 ![2023-11-10_162811](https://github.com/suben-mk/Placement-of-Tunnel-Segment-Rev.04/assets/89971741/28b39d88-1aee-417a-8c84-4843f40cc5bd)
 
 _Imput Tunnel Center Dataset_
