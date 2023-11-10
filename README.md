@@ -17,5 +17,5 @@ _Result of Tunnel Segment Plan and Longitudinal Section in AutoCAD_
 
 
 **Workflow from y youtube**
->_PTS by Insert Attribute Block_ : https://youtu.be/5Z7XAIjUBXY
->_PTS by Polyline_ : https://youtu.be/gbZm92Boljg
+[_PTS by Insert Attribute Block_ :](https://youtu.be/5Z7XAIjUBXY)
+_PTS by Polyline_ : https://youtu.be/gbZm92Boljg
