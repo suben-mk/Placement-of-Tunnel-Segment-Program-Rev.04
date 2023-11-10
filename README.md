@@ -4,10 +4,11 @@ The program compute coordinate of tunnel segment corner from coordinate of cente
 To plot Tunnel Segment Plan and Longitudinal Section to AutoCAD.
 
 **PTS by Insert Attribute Block**
+
 _Creat the Attribute Block in AutoCAD_
 ![2023-11-10_162811](https://github.com/suben-mk/Placement-of-Tunnel-Segment-Rev.04/assets/89971741/28b39d88-1aee-417a-8c84-4843f40cc5bd)
 
-_Imput Tunnel Data_
+_Imput Tunnel Center Dataset_
 ![2023-11-10_162952](https://github.com/suben-mk/Placement-of-Tunnel-Segment-Rev.04/assets/89971741/2befbefd-a303-404b-a7cd-949fcd79ab33)
 
 _Result of  Tunnel Segment Plan and Longitudinal Section in AutoCAD_
