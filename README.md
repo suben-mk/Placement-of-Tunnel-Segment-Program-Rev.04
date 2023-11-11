@@ -3,6 +3,9 @@ I created **Placement of Tunnel Segment Program** to work as automation for shop
 The program compute coordinate of tunnel segment corner from coordinate of center, azimuth, chainage, elevation of center, zenith angle and tunnel daimeter.
 To plot Tunnel Segment Plan and Longitudinal Section to AutoCAD.
 
+_Tunnel Segment Detail_
+![2023-11-11_092447](https://github.com/suben-mk/Placement-of-Tunnel-Segment-Rev.04/assets/89971741/99745cd3-9e5c-4fc0-8a7a-0c15848cae80)
+
 _Attribute Block in AutoCAD for **PTS by Insert Attribute Block**_
 ![2023-11-10_162811](https://github.com/suben-mk/Placement-of-Tunnel-Segment-Rev.04/assets/89971741/28b39d88-1aee-417a-8c84-4843f40cc5bd)
 
